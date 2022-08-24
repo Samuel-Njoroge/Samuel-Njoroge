@@ -24,3 +24,22 @@ Tech Stack.
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=tokyonight" 
 />
+
+# file .github/workflows/activity.yml
+name: Update README
+
+            on:
+              schedule:
+                - cron: '*/30 * * * *'
+              workflow_dispatch:
+            
+            jobs:
+              build:
+                runs-on: ubuntu-latest
+                name: Update this repo's README with recent activity
+            
+                steps:
+                  - uses: actions/checkout@v2
+                  - uses: jamesgeorge007/github-activity-readme@master
+                    env:
+                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
