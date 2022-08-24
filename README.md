@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samuel-Njoroge Kiragu.
+- 👋 Hi, I’m @Samuel-Njoroge.
 - 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning and Deep Learning.
 - 🌱 I’m currently pursuing a Bachelor's Degree in Computer Technology and taking short courses in Data Science,Artificial Intelligence and Machine Learning. 
 - 💞️ I’m free  to collaborate on Data Science and Artificial Intelligence projects.
