@@ -24,3 +24,6 @@ Tech Stack.
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=tokyonight" 
 />
+
+- name: Setup Python
+  uses: actions/setup-python@v4.2.0
