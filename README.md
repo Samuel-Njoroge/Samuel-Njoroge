@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Samuel Njoroge.
-- 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning and Deep Learning and Cloud Computing.
+### Hello you are welcome 👋
+## About me:
+- 👋 Hi, I’m  a Junior Data Scientist.
+- 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning , Deep Learning and Cloud Computing.
 - 🌱 I’m currently pursuing a Bachelor's Degree in Computer Technology and taking short courses in Data Science,Artificial Intelligence and Machine Learning. 
 - 💞️ I’m free  to collaborate on Data Science and Artificial Intelligence projects.
 - 📫 Feel free to send an email -  njorogekiragu8@gmail.com
 
-Tech Stack.
+ ## 🧰: My stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -25,3 +27,40 @@ Tech Stack.
    src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=tokyonight" 
 />
 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode"  alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
+  
+ </div>
+ 
+ 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="300"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/flora-oladipupo/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/flora_oladipupo">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Samuel-Njoroge&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-Njoroge&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Njoroge&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
