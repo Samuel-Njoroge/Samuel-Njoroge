@@ -41,8 +41,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Njoroge&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Samuel-Njoroge" /></p>
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=dark" 
-/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-Njoroge&theme=dark)](https://git.io/streak-stats)
+   src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=dark"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-Njoroge&theme=dark)](https://git.io/streak-stats)
 
 
 
