@@ -1,4 +1,4 @@
-### Hello, I am Samuel Njoroge Kiragu. 👋
+### 👋 Hello, I am Samuel Njoroge Kiragu.
 ## About me:
 - 👋 I’m  a Junior Data Scientist.
 - 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning , Deep Learning and Cloud Computing.
