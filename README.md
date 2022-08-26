@@ -14,6 +14,9 @@
     <a href="https://twitter.com/njoroge_samuel_?t=j4byrvrkfzUxfVEIO23wOQ&s=09">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="njorogekiragu8@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="Gmail Badge"/>
+    </a>
   </div>
 
  ## 🧰: My Tech stack
@@ -37,7 +40,9 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Njoroge&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Njoroge&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Samuel-Njoroge" /></p>
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=dark" 
