@@ -44,5 +44,12 @@
    src="https://github-readme-stats.vercel.app/api?username=Samuel-Njoroge&show_icons=true&theme=dark"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-Njoroge&theme=dark)](https://git.io/streak-stats)
 
 
+### ⚙️ &nbsp;GitHub Activity Graph
+
+
+<p align="center">
+<a href="https://github.com/Samuel-Njoroge/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Njoroge&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
 
 ---
