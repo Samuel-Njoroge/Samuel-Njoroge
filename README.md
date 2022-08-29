@@ -2,7 +2,6 @@
 ## About me:
 - 👋 I’m  a Junior Data Scientist.
 - 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning , Deep Learning and Cloud Computing.
-- 🌱 I’m currently pursuing a Bachelor's Degree in Computer Technology and taking short courses in Data Science,Artificial Intelligence and Machine Learning. 
 - 💞️ I’m free  to collaborate on Data Science and Artificial Intelligence projects.
 - 📫 Feel free to send an email -  njorogekiragu8@gmail.com
 
