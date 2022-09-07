@@ -1,6 +1,6 @@
 ### 👋 Hello, I am Samuel Njoroge.
 ## About me:
-- 👋 I’m  an Aspiring  Data Scientist.
+- 👋 I’m  a Junior  Data Scientist.
 - 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning , Deep Learning and Cloud Computing.
 - 💞️ I’m free  to collaborate on Data Science and Artificial Intelligence projects.
 - 📫 Feel free to send an email -  njorogekiragu8@gmail.com
