@@ -1,8 +1,8 @@
 ### 👋 Hello, I am Samuel Njoroge.
 ## About me:
-- 👀 I’m interested in Python , Data Science , Artificial Intelligence , Machine Learning  and Cloud Computing.
-- 💞️ I’m free  to collaborate on Data Science and Artificial Intelligence projects.
-- 📫 Feel free to send an email -  njorogekiragu8@gmail.com
+- 👀 I’m interested in Python , Data , Artificial Intelligence , Machine Learning  and Cloud Computing.
+- 💞️ I’m free  to collaborate on Data Science and Machine Learning projects.
+
 
 ### How to reach me.
 <div id="badges">
