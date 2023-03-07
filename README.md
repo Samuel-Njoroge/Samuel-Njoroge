@@ -1,6 +1,6 @@
 ### 👋 Hello, I am Samuel Njoroge.
 ## About me:
-- 👀 I’m interested in Python , Data , Machine Learning  and Cloud Computing.
+- 👀 I’m interested in Data Science, Machine Learning  and Cloud Computing.
 - 💞️ I’m free  to collaborate on Data Science and Machine Learning projects.
 
 
