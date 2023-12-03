@@ -2,6 +2,7 @@
 ## About me:
 - 👀 I’m interested in Data Science, Machine Learning  and Cloud Computing.
 - 💞️ I’m free  to collaborate on Data Science and Machine Learning projects.
+- Wait, I have this feeling that I belong to the Engineering part of data. The thoughts have won !
 
 
 ### How to reach me.
@@ -19,7 +20,7 @@
   
 
  ## 🧰: My Tech stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
