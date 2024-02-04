@@ -2,8 +2,6 @@
 ## About me:
 - 👀 I’m interested in Data Engineering, Machine Learning  and Cloud Computing.
 - 💞️ I’m free  to collaborate on Data Science and Machine Learning projects.
-- Wait, I have this feeling that I belong to the Engineering part of data. The thoughts have won !
-
 
 ### How to reach me.
 <div id="badges">
