@@ -24,6 +24,8 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+ ### Top 10 Projects
+    
 |   | Project | Stack    | Link       |
 | ---    | ---   | ---     | --- |
 |1. |  |  | |
@@ -31,10 +33,12 @@
 |3. |  |  | |
 |4. |  |  | |
 |5. |  |  | |
+|6. |  |  | |
+|7. |  |  | |
+|8. |  |  | |
+|9. |  |  | |
+|10. |  |  | |
 
-
-
----
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Njoroge&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="KakaInnocent" /></p>
