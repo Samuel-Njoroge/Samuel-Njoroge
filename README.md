@@ -1,7 +1,7 @@
 ### 👋 Hello, I am Samuel Njoroge.
 ## About me:
 - 👀 I’m interested in Data Engineering, Machine Learning  and Cloud Computing.
-- 💞️ I’m free  to collaborate on Data Science and Machine Learning projects.
+- 💞️ I’m free  to collaborate on Data Engineering and Machine Learning projects.
 
 ### How to reach me.
 <div id="badges">
@@ -41,7 +41,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Njoroge&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="KakaInnocent" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Njoroge&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Sam" /></p>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-Njoroge&theme=dark&background=000000)](https://git.io/streak-stats)
