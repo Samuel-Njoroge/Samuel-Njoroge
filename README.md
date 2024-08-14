@@ -5,7 +5,7 @@
 
 ### How to reach me.
 <div id="badges">
-    <a href="https://www.linkedin.com/in/samuel-njoroge-537a48238">
+    <a href="https://www.linkedin.com/in/njoroge-samuel/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/njoroge_samuel_?t=j4byrvrkfzUxfVEIO23wOQ&s=09">
