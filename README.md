@@ -18,7 +18,7 @@
   
 
  ## 🧰: My Tech stack
-![tools](./assets/skills-tools.svg)
+
 
  ### Top 10 Projects
     
