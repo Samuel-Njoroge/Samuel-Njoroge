@@ -18,23 +18,6 @@
   
 
  ## 🧰: My Tech stack
-Apache Kafka
-Apache Iceberg
-Apache Airflow
-Apache Doris
-Apache Superset
-Apache Spark
-Apache Trino
-dbt
-Python {FastAPI & Django}
-SQL
-Debezium
-Kubernetes
-Docker
-Snowflake
-Databricks
-Microsoft Fabric
-Bytewax
 
 ### Skills
 
