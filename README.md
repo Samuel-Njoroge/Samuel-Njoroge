@@ -18,6 +18,33 @@
   
 
  ## 🧰: My Tech stack
+Apache Kafka
+Apache Iceberg
+Apache Airflow
+Apache Doris
+Apache Superset
+Apache Spark
+Apache Trino
+dbt
+Python {FastAPI & Django}
+SQL
+Debezium
+Kubernetes
+Docker
+Snowflake
+Databricks
+Microsoft Fabric
+Bytewax
+
+### Skills
+
+|   | Programming | Ingestion    | Data Storage   | Transformation | Orchestration & Deployment | Visualization   |
+| - | ---         | ---          | ---            | ---            | ---                        | ---             |
+|1. | Python      | Apache Kafka | Apache Iceberg | dbt            | Apache Airflow             | Apache Superset | 
+|2. | Java        | Airbyte      | Snowflake      | Apache Spark   | Kubernetes                 | Tableau         |
+|3. | Bash        | Apache Nifi  | BigQuery       | Bytewax        | Docker                     | MS Power BI     |
+|4. |             | Debezium     | PostgreSQL     | SQL            | Argo CD                    | Looker Studio   |
+|5. |             |              | Databricks     |                | Github Actions             |                 |
 
 
  ### Top 10 Projects
