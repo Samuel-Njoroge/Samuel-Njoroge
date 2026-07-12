@@ -1,9 +1,12 @@
-## 👋 Hello, I am *Samuel Njoroge.*
-
-I'm a **Data & Machine Learning Engineer** passionate about designing scalable data platforms and building intelligent systems that turn data into actionable insights.
+<div align="center">
+    
+# 👋 Hello, I'm *Samuel Njoroge.*
+</div>
 
 
 ## About Me
+
+I'm a **Data & Machine Learning Engineer** passionate about designing scalable data platforms and building intelligent systems that turn data into actionable insights.
 
 My experience spans the entire data lifecycle - from ingesting and transforming large-scale datasets to developing, deploying, and monitoring machine learning models in production. 
 
