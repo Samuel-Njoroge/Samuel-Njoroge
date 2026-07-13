@@ -47,4 +47,5 @@ I'm open to collaborating on projects that push the boundaries of data-driven in
 
 
 ## :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-Njoroge&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Samuel-Njoroge&theme=dark&background=000000)](https://git.io/streak-stats)
